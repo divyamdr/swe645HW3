@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="hw3/src/main/java"/>
+	<classpathentry kind="src" path="hw3/src/test/java"/>
+	<classpathentry kind="src" path="student/src/main/java"/>
+	<classpathentry kind="src" path="student/src/test/java"/>
+	<classpathentry kind="src" path="swe645/src/main/java"/>
+	<classpathentry kind="src" path="swe645/src/test/java"/>
+	<classpathentry kind="lib" path="hw3/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="hw3/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="student/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="swe645/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="swe645/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="swe645/target/Surveyjar.jar"/>
+	<classpathentry kind="output" path="hw3/target/classes"/>
+</classpath>
